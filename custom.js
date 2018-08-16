@@ -1,3 +1,4 @@
 $(document).ready(function() {
-	console.log('jQuery works');
+	// console.log('jQuery works');
+	
 });

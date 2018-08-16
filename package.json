@@ -1,0 +1,23 @@
+{
+  "name": "work-bro-y",
+  "version": "1.0.0",
+  "description": "An attempt to emulate workflowy and add some taxonomy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeComing/Work-Bro-Y.git"
+  },
+  "author": "Jake Coming",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JakeComing/Work-Bro-Y/issues"
+  },
+  "homepage": "https://github.com/JakeComing/Work-Bro-Y#readme",
+  "dependencies": {
+    "electron": "^2.0.7"
+  }
+}
